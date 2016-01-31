@@ -1,0 +1,15 @@
+{
+  "name": "retyped-swiper-tsd-ambient",
+  "description": "TypeScript typings for swiper",
+  "version": "2.0.0-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/swiper-tsd-ambient",
+  "typescript": {
+    "definition": "swiper.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
